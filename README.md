@@ -1,8 +1,8 @@
-# Income to Consumer Product Inflation Rate Analysis
+#Income to Consumer Product Inflation Rate Analysis
 
 link to app on shiny: https://ideshpa2.shinyapps.io/income_cpi_analysis/
 
-The problem I’m trying to solve:
+## The problem I’m trying to solve:
 
 With inflation dominating recent economic and political conversations, the goal of this project was to
 help with how people perceive inflation by analyzing how it actually behaves according to official data
