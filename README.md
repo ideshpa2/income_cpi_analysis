@@ -1,6 +1,8 @@
 # Income to Consumer Product Inflation Rate Analysis
 
-link to app on shiny: https://ideshpa2.shinyapps.io/income_cpi_analysis/
+Link to app on shiny: https://ideshpa2.shinyapps.io/income_cpi_analysis/
+
+For more information see my write up on the data and the methods behind my analysis:  https://github.com/ideshpa2/income_cpi_analysis/blob/main/CPIvIncomeAnalysis.pdf 
 
 ## The problem I’m trying to solve:
 
@@ -12,3 +14,5 @@ This analysis is based on publicly available data, published by the US Bureau of
 Census Bureau. My analysis demonstrates data manipulation (through cleaning of the data sets to index
 average salary through the years to the average of 1984), visualization (graphs), and statistical modeling in
 R (utilizing linear regression).
+
+
