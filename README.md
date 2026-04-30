@@ -2,7 +2,7 @@
 
 Link to app on shiny: https://ideshpa2.shinyapps.io/income_cpi_analysis/
 
-For more information see my write up on the data and the methods behind my analysis:  https://github.com/ideshpa2/income_cpi_analysis/blob/main/CPIvIncomeAnalysis.pdf 
+For more information, see my write up:  https://github.com/ideshpa2/income_cpi_analysis/blob/main/CPIvIncomeAnalysis.pdf 
 
 ## The problem I’m trying to solve:
 
